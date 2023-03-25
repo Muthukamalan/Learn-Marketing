@@ -1,8 +1,16 @@
-Credits: Ilya Katsov
+Contribution Guide:
+-------------------
+    
+    Feel feel to add your respective topics, ideas and implementation of heuristic measures that helps to solve marketing problems.
+    
 
-# Chapters
 
-This book is divided into six chapters
+Credits: **Ilya Katsov**
+
+I'm currently reading his Book "Introduction to Algorithmic Modeling" to understand how DS works in Marketing and like to share essence in this repo.
+
+where to buy: https://www.amazon.in/Introduction-Algorithmic-Marketing-Artificial-Intelligence/dp/0692989048/ref=sr_1_fkmr1_1?keywords=Introduction+to+Algorithmic+Modeling&qid=1679779515&sr=8-1-fkmr1
+
 
 1. Introduction and main concepts and principles of algorithmic marketing
 2. Review of Predictive Modeling
@@ -26,3 +34,4 @@ if you primarly interested in business appplication, caoabilities of the algorit
 
 if you intereseted in marketing system 
     - focus on algo,numerical example and implementaion details
+
