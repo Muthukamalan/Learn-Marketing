@@ -1,10 +1,3 @@
-Contribution Guide:
--------------------
-    
-    Feel feel to add your respective topics, ideas and implementation of heuristic measures that helps to solve marketing problems.
-    
-
-
 Credits: **Ilya Katsov**
 
 I'm currently reading his Book "Introduction to Algorithmic Modeling" to understand how DS works in Marketing and like to share essence in this repo.
