@@ -1,6 +1,5 @@
-# market_mix_modeling
-
-Resources to learn MMM
+# Resources to Learn Marketings
+# Science before Statistics
 
 Assuming you're well versed with DS/ML techniques.
 
